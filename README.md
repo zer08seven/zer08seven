@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zer08seven
-- Im your new GOD
-- 🌱 I’m currently learning ...
-- 
-- my site: https://z087.tk
+- Hi, I’m zer08seven
+- I am a programmer with some hacker qualities
+- I am very inactive around here :'(
 
-<!---
-zer08seven/zer08seven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My site: https://z087.tk
+- Buy me a coffe: https://www.buymeacoffee.com/zer08seven
